@@ -1,0 +1,2 @@
+# PayManager
+AliPay and WxPay
